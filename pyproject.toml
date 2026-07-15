@@ -1,0 +1,12 @@
+[project]
+name = "modeloassisvirtual"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "kokoro>=0.9.4",
+    "numpy>=2.5.1",
+    "openai>=2.45.0",
+    "soundfile>=0.14.0",
+]
