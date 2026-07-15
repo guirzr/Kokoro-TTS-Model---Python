@@ -24,8 +24,7 @@ O programa:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+(https://github.com/guirzr/Kokoro-TTS-Model---Python.git)
 ```
 
 Instale as dependências:
